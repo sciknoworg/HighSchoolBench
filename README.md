@@ -2,7 +2,6 @@
   <img src="assets/highschoolbench-logo.png" alt="HighSchoolBench logo" width="700">
 </p>
 
-# HighSchoolBench
 
 **Is your multimodal model smarter than a high schooler?**
 
